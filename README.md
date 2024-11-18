@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anisha Sapkota
 
-### A passionate self-learner aspiring to become a FullSatack Developer and Data Analyst from Nepal.
+### A passionate self-learner aspiring to become a FullStack Developer and Data Analyst from Nepal.
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -47,9 +47,9 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=dinesh16adh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh16adh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh16adh&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=iamanisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamanisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamanisha&theme=dark&hide_border=false)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_API_KEY&theme=transparent" alt="Wakka Time stats"/>
@@ -59,7 +59,7 @@
 ### 🏆 GitHub Trophies
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=dinesh16adh&theme=onedark&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamanisha&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,14 +76,7 @@
 
 ---
 
-### 📈 Top Contributed Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo1&theme=dark)](https://github.com/dinesh16adh/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo2&theme=dark)](https://github.com/dinesh16adh/repo2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo3&theme=dark)](https://github.com/dinesh16adh/repo3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=dinesh16adh&repo=repo4&theme=dark)](https://github.com/dinesh16adh/repo4)
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/Xz9Dh4DmjXtM3n9rD7/giphy.gif" alt="fun-gif" width="400" />
